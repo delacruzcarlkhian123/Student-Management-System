@@ -1,0 +1,24 @@
+
+# Visual Studio cache and user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+out/
+
+# Compiled files
+*.obj
+*.pdb
+*.pch
+*.ilk
+*.idb
+
+# Qt generated build files
+Makefile
