@@ -130,6 +130,8 @@
     <ClCompile Include="loginwindows.cpp" />
     <ClCompile Include="mainwindow.cpp" />
     <ClCompile Include="main.cpp" />
+    <None Include=".gitignore" />
+    <None Include="README.md" />
     <None Include="StudentManagementSystem.ico" />
     <QtUic Include="registerwindow.ui" />
     <QtUic Include="searchstudentwindow.ui" />
